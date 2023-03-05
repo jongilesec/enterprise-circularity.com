@@ -1,11 +1,12 @@
 # Site Settings
 lang: en
-title: Bulma Clean Theme
+title: Test
+remote_theme: chrisrhymes/bulma-clean-theme
 tagline: Bulma Clean Theme
 email: your-email@domain.com
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
-baseurl: "/bulma-clean-theme"
+  This is a tests
+#baseurl: "/bulma-clean-theme"
 url: "https://www.csrhymes.com"
 permalink: pretty
 #favicon: /path/to/favicon.png
@@ -82,4 +83,4 @@ collections:
     show_sidebar: false
 
 # With GitHub Pages Gem
-remote_theme: chrisrhymes/bulma-clean-theme
+
