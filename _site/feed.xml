@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bulma Clean Theme</title>
-    <description>The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
-</description>
-    <link>http://localhost:4000/bulma-clean-theme/</link>
-    <atom:link href="http://localhost:4000/bulma-clean-theme/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 29 Nov 2023 14:46:12 +0000</pubDate>
-    <lastBuildDate>Wed, 29 Nov 2023 14:46:12 +0000</lastBuildDate>
+    <title>Awesome Title</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
+    <link>http://localhost:4000/agency-jekyll-theme//</link>
+    <atom:link href="http://localhost:4000/agency-jekyll-theme//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 29 Nov 2023 15:06:30 +0000</pubDate>
+    <lastBuildDate>Wed, 29 Nov 2023 15:06:30 +0000</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -15,8 +14,8 @@
         <description>
 </description>
         <pubDate>Fri, 18 Jul 2014 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/bulma-clean-theme/web%20development/2014/07/18/project-1/</link>
-        <guid isPermaLink="true">http://localhost:4000/bulma-clean-theme/web%20development/2014/07/18/project-1/</guid>
+        <link>http://localhost:4000/agency-jekyll-theme//web%20development/2014/07/18/project-1/</link>
+        <guid isPermaLink="true">http://localhost:4000/agency-jekyll-theme//web%20development/2014/07/18/project-1/</guid>
         
         
         <category>Web Development</category>
@@ -28,8 +27,8 @@
         <description>
 </description>
         <pubDate>Thu, 17 Jul 2014 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/bulma-clean-theme/web%20development/2014/07/17/project-2/</link>
-        <guid isPermaLink="true">http://localhost:4000/bulma-clean-theme/web%20development/2014/07/17/project-2/</guid>
+        <link>http://localhost:4000/agency-jekyll-theme//web%20development/2014/07/17/project-2/</link>
+        <guid isPermaLink="true">http://localhost:4000/agency-jekyll-theme//web%20development/2014/07/17/project-2/</guid>
         
         
         <category>Web Development</category>
@@ -41,8 +40,8 @@
         <description>
 </description>
         <pubDate>Wed, 16 Jul 2014 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/bulma-clean-theme/web%20development/2014/07/16/project-3/</link>
-        <guid isPermaLink="true">http://localhost:4000/bulma-clean-theme/web%20development/2014/07/16/project-3/</guid>
+        <link>http://localhost:4000/agency-jekyll-theme//web%20development/2014/07/16/project-3/</link>
+        <guid isPermaLink="true">http://localhost:4000/agency-jekyll-theme//web%20development/2014/07/16/project-3/</guid>
         
         
         <category>Web Development</category>
@@ -54,8 +53,8 @@
         <description>
 </description>
         <pubDate>Tue, 15 Jul 2014 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/bulma-clean-theme/web%20development/2014/07/15/project-4/</link>
-        <guid isPermaLink="true">http://localhost:4000/bulma-clean-theme/web%20development/2014/07/15/project-4/</guid>
+        <link>http://localhost:4000/agency-jekyll-theme//web%20development/2014/07/15/project-4/</link>
+        <guid isPermaLink="true">http://localhost:4000/agency-jekyll-theme//web%20development/2014/07/15/project-4/</guid>
         
         
         <category>Web Development</category>
@@ -67,8 +66,8 @@
         <description>
 </description>
         <pubDate>Tue, 15 Jul 2014 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/bulma-clean-theme/web%20development/2014/07/15/project-6/</link>
-        <guid isPermaLink="true">http://localhost:4000/bulma-clean-theme/web%20development/2014/07/15/project-6/</guid>
+        <link>http://localhost:4000/agency-jekyll-theme//web%20development/2014/07/15/project-6/</link>
+        <guid isPermaLink="true">http://localhost:4000/agency-jekyll-theme//web%20development/2014/07/15/project-6/</guid>
         
         
         <category>Web Development</category>
@@ -80,8 +79,8 @@
         <description>
 </description>
         <pubDate>Mon, 14 Jul 2014 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/bulma-clean-theme/web%20development/2014/07/14/project-5/</link>
-        <guid isPermaLink="true">http://localhost:4000/bulma-clean-theme/web%20development/2014/07/14/project-5/</guid>
+        <link>http://localhost:4000/agency-jekyll-theme//web%20development/2014/07/14/project-5/</link>
+        <guid isPermaLink="true">http://localhost:4000/agency-jekyll-theme//web%20development/2014/07/14/project-5/</guid>
         
         
         <category>Web Development</category>
