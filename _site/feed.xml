@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Awesome Title</title>
+    <title>Enterprise Circularity</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>http://localhost:4000/agency-jekyll-theme//</link>
     <atom:link href="http://localhost:4000/agency-jekyll-theme//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 29 Nov 2023 15:06:30 +0000</pubDate>
-    <lastBuildDate>Wed, 29 Nov 2023 15:06:30 +0000</lastBuildDate>
+    <pubDate>Thu, 30 Nov 2023 09:54:38 +0000</pubDate>
+    <lastBuildDate>Thu, 30 Nov 2023 09:54:38 +0000</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
-        <title>Dreams</title>
+        <title>AI</title>
         <description>
 </description>
         <pubDate>Fri, 18 Jul 2014 00:00:00 +0100</pubDate>
