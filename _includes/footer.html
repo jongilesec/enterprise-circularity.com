@@ -1,20 +1,25 @@
-<footer class="footer">
-    <div class="container">
-        
-        {% if site.footer_menu %}
-        <div class="columns is-multiline">
-            {% for item in site.data[site.footer_menu] %}
-            <div class="column has-text-centered">
-                <div>
-                    <a href="{{ item.link | relative_url }}" class="link">{{ item.name }}</a>
+  <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <span class="copyright">Copyright &copy; {{ site.title }} {{ 'now' | date: "%Y" }}</span>
+                </div>
+                <div class="col-md-4">
+                    <ul class="list-inline social-buttons">
+                        {% for network in site.social %}
+                        <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                    <ul class="list-inline quicklinks">
+                        <li><a href="#">Privacy Policy</a>
+                        </li>
+                        <li><a href="#">Terms of Use</a>
+                        </li>
+                    </ul>
                 </div>
             </div>
-            {% endfor %}
         </div>
-        {% endif %}
-
-        <div class="content is-small has-text-centered">
-            <p class="">Theme built by <a href="https://www.csrhymes.com">C.S. Rhymes</a></p>
-        </div>
-    </div>
-</footer>
+    </footer>
